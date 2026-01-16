@@ -1,0 +1,15 @@
+html {
+  background-color: red;
+  color: white;
+  margin: auto;
+  width: 50%;
+}
+
+#bio {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  margin: auto;
+  width: 200px;
+}
