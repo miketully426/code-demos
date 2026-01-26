@@ -1,0 +1,45 @@
+.background {
+  background-image: url(https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181173-85221718.jpg?w=1581&h=1054&crop=1);
+  position: fixed;
+  width: 100%;
+}
+
+.nav-bar {
+  background-color: lightgreen;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  border: 3px solid yellow;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  font-size: 16px;
+  color: red;
+  background-color: black;
+  border: 1px solid white;
+  padding: 8px;
+  margin: 6px;
+  line-height: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.content-wrapper {
+  width: 80%;
+  margin: 50px auto;
+  height: 1000px;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+}
