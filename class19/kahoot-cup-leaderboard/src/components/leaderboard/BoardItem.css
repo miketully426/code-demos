@@ -1,0 +1,11 @@
+.item-content,
+li::marker {
+  display: flex;
+  justify-content: space-between;
+  background-color: #a1662f;
+  color: darkgreen;
+  padding: 10px 25px;
+  margin: 10px 0;
+  font-family: "Playpen Sans";
+  font-size: larger;
+}
